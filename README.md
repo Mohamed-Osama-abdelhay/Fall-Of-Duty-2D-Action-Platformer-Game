@@ -11,8 +11,8 @@ Welcome to **Fall Of Duty**, a 2D side-scrolling shooter and platformer game bui
 ## 📂 Project Structure
 
 ```bash
-├── Game.txt             # Main game source code (to be renamed to .cpp)
-├── assets/              # Folder for images, textures, and sound files
+├── Game.txt            
+├── assets/              
 │   ├── enemy*.png
 │   ├── player*.png
 │   ├── BG.png
